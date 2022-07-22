@@ -26,6 +26,7 @@ We have included a variety of Bootstrap customizations to our webpage:
 2. Added background color to the webpage.
 3. Change the font style for the head and body elements.
 4. Included a custom styled navbar that links to the "bar" and "bubble" graphs on the home page.
+5. 
 ![Del4](https://user-images.githubusercontent.com/103288980/180367118-f53f66aa-c2b1-4b66-94de-6117c58c0e06.PNG)
 
 ## Summary
