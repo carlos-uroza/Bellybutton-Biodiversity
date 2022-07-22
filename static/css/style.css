@@ -1,0 +1,23 @@
+/* Jumbotron image style */
+.jumbotron {
+background-image: url("../images/beef.jpg");
+background-size: 100% 100%;
+text-align: center;
+}
+
+/* Background color and Font style */
+
+body {
+
+    background-color: #85aade;
+    font-family: "Times New Roman", Times, serif;
+  }
+
+/* Style nav bar */
+.navbar a {
+    float: left;
+    color: #f7f7f7;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
